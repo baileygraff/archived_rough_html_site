@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>verbs homepage</title>
+		<link href="../styles/styles.css" type="text/css"
+		rel="stylesheet">
+    </head>
+	<body>
+	    <div class="foreground">
+		<div class="header"><!--page header with directory-->
+	        <p id="top">
+    		    <a class="intrasite" href="../index.html">Return Home</a> <!--</br>--> 
+	    		<a class="intrasite" href="../language/index.html">Language Home</a> <!--</br>--> 
+    			<a class="intrasite" href="index.html">Italian Home</a>
+    	    </p>
+
+		</div>
+		<h2 class="page_title"><span id="green_italian">Italian</span> <span id="white_verbs">
+			Verbs</span> <span id="red_homepage">Homepage</span></h2><!--page title-->
+	    <div class="directory"><!--directory-->
+       		<h4>On This Page:</h4>
+	
+	   	    <ul class="directory">
+		   	    <li>Conjugations</li>
+		    	<li><a class="intrapage" href="#pres_perf">Present Perfect Tense</a></li>
+    			<li>Imperfect Tense</li>
+    			<li><a class="intrapage" href="#first_conj">First Conjugation</a></li>
+    			<li><a class="intrapage" href="#sec_conj">Second Conjugation</a></li>
+    			<li><a class="intrapage" href="#third_conj">Third Conjugation</a></li>
+    			<li>
+    			    Important Irregular Verbs:
+    				<ul>
+    				    <li>essere</li>
+    					<li>avere</li>
+    					<li>andare</li>
+    					<li>stare</li>
+    					<li>dare</li>
+    					<li>dare</li>
+    					<li>fare</li>
+    				</ul>
+    			</li>				
+    		</ul>
+		</div>
+		
+		
+		<h3 class="section_header">Conjugations</h3>
+		<div class= "texty">
+		<p><!--conjugations general info-->
+		    There are three conjugations of verbs in Italian, and each has different endings as infinitives.
+			<ul>
+			    <li>First Conjugation (<span class="first ending">-are</span>) example: parl<span class="ending">are</span> to speak</li> 
+				<li>Second Conjugation (<span class="second ending">-ere</span>) example: cred<span class="ending">ere</span> to believe</li>
+				<li>Third Conjugation (<span class="third ending">-ire</span>) example: dorm<span class="ending">ire</span> to sleep</li>
+			</ul>
+		</p>
+		</div>
+		<h3 class="section_header">Past Tense</h3>
+		<div class="texty">
+		<p><!--intro-->
+		    There are multiple past tenses in Italian:
+        </p>
+		<p><!--Present Perfect intro-->
+			<b>The Present Perfect</b> (<i>Il passato prossimo</i>) 
+			describes single actions/events or changes in state in the past. Present Perfect uses the 
+			helping verbs <i>avere</i> or <i>essere</i> along with the past participle of the verb. 
+			There is more information on the Present Perfect tense <a class="intrapage" href="#pres_perf">below</a>.
+			
+		</p>
+		<p><!--Imperfect intro-->
+		    <b>The Imperfect</b> (<i>L'imperfetto</i>) is used to describe habits or repeated actions 
+			not happening at a specific time. <i>L'imperfetto</i> combines past tense with imperfect aspect (
+			actions not viewed as a complete whole). <i>L'imperfetto</i> is used to describe:
+			<ul>
+			    <li><b>repeated</b> or <b>habitual</b> actions in the past</li>
+				<li><b>ongoing</b> actions in the past and ongiong actions in the past <b>that are interrupted</b></li>
+				<li><b>states of being</b> and <b>conditions</b> in the past (Example: weather, time, age)</li>
+			</ul>
+			
+		</p>
+		</div>
+				
+		<hr />
+		<h4 class="section_header" id="first_conj">First Conjugation</h4>
+		<div><!--first conjugation-->
+		    <div><!--present tense-->
+		        <table class="conj_table">
+			        <tr>
+				        <th colspan="4">Present Tense First Conjugation Endings (with parl<em>are</em>)</th>
+					    
+				    </tr>
+				    <tr>
+				        <td>io</td>
+					    <td>parlo</td>
+					    <td>noi</td>
+					    <td>parliamo</td>
+				    </tr>
+				    <tr>
+				        <td>tu</td>
+					    <td>parli</td>
+					    <td>voi</td>
+					    <td>parlate</td>
+				    </tr>
+				    <tr>
+				        <td>lui/lei/Lei</td>
+					    <td>parla</td>
+					    <td>loro/Loro</td>
+					    <td>parlano</td>
+				    </tr>
+			    </table>
+			</div>
+			<p class="table_text"><!--gare+care descriptive text-->
+			    First Conjugation verbs that end in <i>-gare</i> and <i>-care</i> add an <b>h</b> to the
+			     stem before their second-person singular and first-person plural forms. See the example
+		         below that uses <i>cercare</i> (to search).
+			</p>
+			<div><!--gare and -care endings-->
+			    <table class="conj_table">
+			        <tr>
+				        <th colspan="4">Present Tense First Conjugation -gare/-care (with cerc<em>are</em>)</th>
+				    </tr>
+				    <tr>
+				        <td>io</td>
+					    <td>cerco</td>
+					    <td>noi</td>
+					    <td>cerc<b>h</b>iamo</td>
+				    </tr>
+				    <tr>
+				        <td>tu</td>
+					    <td>cerc<b>h</b>i</td>
+					    <td>voi</td>
+					    <td>cercate</td>
+				    </tr>
+				    <tr>
+				        <td>lui/lei/Lei</td>
+					    <td>cerca</td>
+					    <td>loro/Loro</td>
+					    <td>cercano</td>
+				    </tr>
+			    </table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+			    <table class="conj_table">
+			    <tr>
+				    <th colspan="4">Imperfect Tense First Conjugation Endings (with parl<em>are</em>)</th>
+				</tr>
+				<tr>
+				    <td>io</td>
+					<td>parl<b>avo</b></td>
+					<td>noi</td>
+					<td>parl<b>avamo</b></td>
+				</tr>
+				<tr>
+				    <td>tu</td>
+					<td>parl<b>avi</b></td>
+					<td>voi</td>
+					<td>parl<b>avate</b></td>
+				</tr>
+				<tr>
+				    <td>lui/lei/Lei</td>
+					<td>parl<b>ava</b></td>
+					<td>loro/Loro</td>
+					<td>parl<b>avano</b></td>
+				</tr>
+			    </table>
+			</div>
+	    </div>
+		
+		<hr />
+		<h4 class="section_header" id="sec_conj">Second Conjugation</h4>
+		<div><!--second conjugation-->
+		    <div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Second Conjugation Endings (with cred<em>ere</em>)</th>
+					</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>credo</td>
+    					<td>noi</td>
+    					<td>crediamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>credi</td>
+    					<td>voi</td>
+    					<td>credete</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>crede</td>
+    					<td>loro/Loro</td>
+    					<td>credono</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Second Conjugation Endings (with cred<em>ere</em>)</th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>cred<b>evo</b></td>
+    					<td>noi</td>
+    					<td>cred<b>evamo</b></td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>cred<b>evi</b></td>
+    					<td>voi</td>
+    					<td>cred<b>evate</b></td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>cred<b>eva</b></td>
+    					<td>loro/Loro</td>
+    					<td>cred<b>evano</b></td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		
+		<hr />
+		<h4 class="section_header" id="third_conj">Third Conjugation</h4>
+		<div><!--third conjugation-->
+		    <div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Third Conjugation Endings (with dorm<em>ire</em>)</th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>dormo</td>
+    					<td>noi</td>
+    					<td>dormiamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>dormi</td>
+    					<td>voi</td>
+    					<td>dormite</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>dorme</td>
+    					<td>loro/Loro</td>
+    					<td>dormono</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Third Conjugation Endings (with dorm<em>ire</em>)</th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>dorm<b>ivo</b></td>
+    					<td>noi</td>
+    					<td>dorm<b>ivamo</b></td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>dorm<b>ivi</b></td>
+    					<td>voi</td>
+    					<td>dorm<b>ivate</b></td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>dorm<b>iva</b></td>
+    					<td>loro/Loro</td>
+    					<td>dorm<b>ivano</b></td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		
+		<hr />
+		<h4 class="section_header" id="pres_perf">Il Passato Prossimo</h4>
+		<div class="passa_pross"><!--Il Passato Prossimo-->
+		    <div class="texty"><!--Il Passato Prossimo+Past Participles-->
+		        <p>
+		            All transitive verbs and most intransitive verbs use the helping verb <i>avere</i> 
+					(to have) when forming their <b>Present Perfect</b>. For verbs that use <i>avere</i> 
+					as an auxiliary, the past participle will almost always end in <b>-o</b>. 
+					(Example: am<b>ato</b>)
+		        </p>
+			     <p><!--making past participle-->
+			         Here is how the <b>past participle</b> is formed in each conjugation:
+		    		 <ul>
+		    		     <li>
+		    			     First conjugation <i>-are</i> verbs add <b>-ato</b> to the stem
+		    			 </li>
+		    			 <li>
+		    			     Second conjugation <i>-ere</i> verbs add <b>-uto</b> to the stem
+		    			 </li>
+		    			 <li>
+		    			     Third conjugation <i>-ire</i> verbs add <b>-ito</b> to the stem
+		    			 </li>
+		    		 </ul>
+		    	 </p>
+				 
+		    </div>
+			<div><!--present perfect avere aux-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Perfect Tense avere auxiliary (with <em>amare</em>)</th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>ho amato</td>
+    					<td>noi</td>
+    					<td>abbiamo amato</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>hai amato</td>
+    					<td>voi</td>
+    					<td>avete amato</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>ha amato</td>
+    					<td>loro/Loro</td>
+    					<td>hanno amato</td>
+    				</tr>
+    			</table>
+			</div>
+		    <p class="texty"><!--essere auxiliary information-->
+			    A few intransitive verbs (<i>essere</i> itself) and verbs that indicate motion (to come,
+			    to go, to arrive, etc.) use <i>essere</i> as their auxiliary verb. When this is the case,
+			    the past participle will need to agree with the number and gender of the subject.
+			    The verb <i>arrivare</i> (to arrive) in the example below uses <i>essere</i> as an 
+				auxiliary: It is conjugated as if the subject is masculine. The past participle 
+				<i>arrivato</i> change to <i>arrivata</i> in the singular and would change from 
+				<i>arrivati</i> to <i>arrivate</i> in the plural in the case of a feminine subject 
+				such as <i>penna</i> (pen).
+			</p>
+			<div><!--present perfect essere aux-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Perfect Tense essere auxiliary (with <em>arrivare</em>)</th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>sono arrivato</td>
+    					<td>noi</td>
+    					<td>siamo arrivati</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>sei arrivato</td>
+    					<td>voi</td>
+    					<td>siete arrivati</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>&egrave; arrivato</td>
+    					<td>loro/Loro</td>
+    					<td>sono arrivati</td>
+    				</tr>
+					<tfoot>
+					    <td colspan="4">
+					        Once again, <b>-o</b> will become <b>-a</b> and <b>-i</b> will become 
+							<b>-e</b>
+						</td>
+					</tfoot>
+    			</table>
+			</div>
+		</div>
+		
+		<hr />
+		<div class="irr_vbs_">
+		<h3 class="section_header">Important Irregular Verbs</h3>
+		<!--<h4>Essere (to be)</h4>-->
+		<div><!--essere-->
+		    <h4><em>essere</em> (to be)</h4>
+			<div><!--present tense-->
+    		    <table class="conj_table">
+				    <!--<thead>
+					    Present Tense Irregular Verb Endings with <em>essere</em>
+					</thead>-->
+    			    <tr>
+    				    <th colspan="4">Present Tense Irregular Verb Endings with <em>essere</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>sono</td>
+    					<td>noi</td>
+    					<td>siamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>sei</td>
+    					<td>voi</td>
+    					<td>siete</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>&egrave;</td>
+    					<td>loro/Loro</td>
+    					<td>sono</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Irregular Verb Endings with <em>essere</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>ero</td>
+    					<td>noi</td>
+    					<td>eravamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>eri</td>
+    					<td>voi</td>
+    					<td>eravate</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>era</td>
+    					<td>loro/Loro</td>
+    					<td>erano</td>
+	    			</tr>
+	    		</table>
+			</div>
+		</div>
+		<hr />
+		<div><!--avere-->
+		    <h4><em>avere</em> (to have)</h4>
+			<div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Irregular Verb Endings with <em>avere</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>ho</td>
+    					<td>noi</td>
+    					<td>abbiamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>hai</td>
+    					<td>voi</td>
+    					<td>avete</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>ha</td>
+	    				<td>loro/Loro</td>
+	    				<td>hanno</td>
+	    			</tr>
+	    		</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Irregular Verb Endings with <em>avere</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>av<b>evo</b></td>
+    					<td>noi</td>
+    					<td>av<b>evamo</b></td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>av<b>evi</b></td>
+    					<td>voi</td>
+    					<td>av<b>evate</b></td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>av<b>eva</b></td>
+    					<td>loro/Loro</td>
+    					<td>av<b>evano</b></td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		<hr />
+		<div><!--andare-->
+		    <h4><em>andare</em> (to go)</h4>
+			<div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Irregular Verb Endings with <em>andare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>vado</td>
+    					<td>noi</td>
+    					<td>andiamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>vai</td>
+    					<td>voi</td>
+    					<td>andate</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>va</td>
+    					<td>loro/Loro</td>
+    					<td>vanno</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Irregular Verb Endings with <em>andare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>and<b>avo</b></td>
+    					<td>noi</td>
+    					<td>and<b>avamo</b></td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>and<b>avi</b></td>
+    					<td>voi</td>
+    					<td>and<b>avate</b></td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>and<b>ava</b></td>
+    					<td>loro/Loro</td>
+    					<td>and<b>avano</b></td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		<hr />
+		<div><!--stare-->
+		    <h4><em>stare</em> (to stay)</h4>
+			<div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Irregular Verb Endings with <em>stare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>sto</td>
+    					<td>noi</td>
+    					<td>stiamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>stai</td>
+    					<td>voi</td>
+    					<td>state</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>sta</td>
+    					<td>loro/Loro</td>
+    					<td>stanno</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Irregular Verb Endings with <em>stare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>st<b>avo</b></td>
+    					<td>noi</td>
+    					<td>st<b>avamo</b></td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>st<b>avi</b></td>
+    					<td>voi</td>
+    					<td>st<b>avate</b></td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>st<b>ava</b></td>
+    					<td>loro/Loro</td>
+    					<td>st<b>avano</b></td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		<hr />
+		<div><!--dare-->
+		    <h4><em>dare</em> (to give)</h4>
+			<div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Irregular Verb Endings with <em>dare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>do</td>
+    					<td>noi</td>
+    					<td>diamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>dai</td>
+    					<td>voi</td>
+    					<td>date</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>d&agrave;</td>
+    					<td>loro/Loro</td>
+    					<td>danno</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Irregular Verb Endings with <em>dare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>d<b>avo</b></td>
+    					<td>noi</td>
+    					<td>d<b>avamo</b></td>
+    				</tr>
+    				<tr>
+	    			    <td>tu</td>
+	    				<td>d<b>avi</b></td>
+	    				<td>voi</td>
+	    				<td>d<b>avate</b></td>
+	    			</tr>
+	    			<tr>
+	    			    <td>lui/lei/Lei</td>
+	    				<td>d<b>ava</b></td>
+    					<td>loro/Loro</td>
+    					<td>d<b>avano</b></td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		<hr />
+		<div><!--fare-->
+		    <h4><em>fare</em> (to make or to do)</h4>
+			<div><!--present tense-->
+    		    <table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Present Tense Irregular Verb Endings with <em>fare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>faccio</td>
+    					<td>noi</td>
+    					<td>facciamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>fai</td>
+    					<td>voi</td>
+    					<td>fate</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>fa</td>
+    					<td>loro/Loro</td>
+    					<td>fanno</td>
+    				</tr>
+    			</table>
+			</div>
+			<br />
+			<div><!--imperfect tense-->
+    			<table class="conj_table">
+    			    <tr>
+    				    <th colspan="4">Imperfect Tense Irregular Verb Endings with <em>fare</em></th>
+    				</tr>
+    				<tr>
+    				    <td>io</td>
+    					<td>facevo</td>
+    					<td>noi</td>
+    					<td>facevamo</td>
+    				</tr>
+    				<tr>
+    				    <td>tu</td>
+    					<td>facevi</td>
+    					<td>voi</td>
+    					<td>facevate</td>
+    				</tr>
+    				<tr>
+    				    <td>lui/lei/Lei</td>
+    					<td>faceva</td>
+    					<td>loro/Loro</td>
+    					<td>facevano</td>
+    				</tr>
+    			</table>
+			</div>
+		</div>
+		</div>
+		<hr />
+	    <h3>Learning Tools</h3>
+	    <p><!--learning tools-->
+		    <ul>
+
+			    <li>
+				    <a href="https://quizlet.com/baileygraph/folders/italian/sets" 
+				    title="My Italian Quizlet Folder" >Italian Quizlet Folder</a>
+				</li>
+			    <li>
+				    <a href="https://ankiweb.net/decks/" title="My Anki Flashcard Decks">
+					AnkiWeb Flashcard Decks</a>
+				</li>
+							    <li>
+				    <a href="https://en.wikipedia.org/wiki/Italian_conjugation" title="wikipedia Italian verb conjugations page">
+					Wikipedia's Italian Verb Conjugations Page</a>
+				</li>
+				<li>
+				    <a href="https://www.starr.net/is/type/htmlcodes.html" title="html accent guide">html accent guide website</a>
+				</li>
+			</ul>
+			
+		</p>
+		<!--<hr />-->
+		<p><a class="intrapage" href="#top">Top</a>
+		</div>
+		<!--TODO:
+		    properly format tables with verbs lol
+		-->
+	</body>
+
+</html>
